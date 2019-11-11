@@ -1,0 +1,22 @@
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.thumbnail {
+    position: relative;
+}
+
+.caption {
+    position: absolute;
+    top: 65%;
+    width: 200px;
+    background: #4aaaa5;
+    padding: 10px;
+}
+
+.caption a {
+    color: #ffffff;
+    font-size: 20px;
+}
